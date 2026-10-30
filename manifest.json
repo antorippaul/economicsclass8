@@ -1,0 +1,350 @@
+[
+    {
+        "index": 1,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//129378f5-09f4-43d6-9f54-dcb07e3db58d/markdown_1/imgs/img_in_image_box_119_829_344_998.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A05Z%2F-1%2F%2F826210466100c7ae448bcde4d3f04fc87799d7229f1db6c77a887720e2801f76",
+        "filename": "0001.jpg",
+        "success": true
+    },
+    {
+        "index": 2,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//129378f5-09f4-43d6-9f54-dcb07e3db58d/markdown_1/imgs/img_in_image_box_364_817_613_1008.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A05Z%2F-1%2F%2Ff3d873c79f33dac319f73cf0b5b02d6007a7075e408b5fbda377128ca3064b87",
+        "filename": "0002.jpg",
+        "success": true
+    },
+    {
+        "index": 3,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//129378f5-09f4-43d6-9f54-dcb07e3db58d/markdown_1/imgs/img_in_image_box_628_820_890_1004.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A05Z%2F-1%2F%2Fc160fb57158a768480cda595ab00f54fd2bab9d9525942f2b67d55e816d1b950",
+        "filename": "0003.jpg",
+        "success": true
+    },
+    {
+        "index": 4,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//129378f5-09f4-43d6-9f54-dcb07e3db58d/markdown_1/imgs/img_in_image_box_908_818_1139_1005.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A05Z%2F-1%2F%2Fc472147a652129128f05e8ca89613b437b57b06f371077e982fc15863ba874ca",
+        "filename": "0004.jpg",
+        "success": true
+    },
+    {
+        "index": 5,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//129378f5-09f4-43d6-9f54-dcb07e3db58d/markdown_1/imgs/img_in_image_box_107_1078_347_1277.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A05Z%2F-1%2F%2Fc6337dad4edb96694bedd61e5f3a33a580e2eb91be58607f45f19954d879af14",
+        "filename": "0005.jpg",
+        "success": true
+    },
+    {
+        "index": 6,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//129378f5-09f4-43d6-9f54-dcb07e3db58d/markdown_1/imgs/img_in_image_box_363_1078_590_1276.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A05Z%2F-1%2F%2Fc6c219dcb644f29461f99c62040307881f3c00d6f0b213930838a8e4a8a352db",
+        "filename": "0006.jpg",
+        "success": true
+    },
+    {
+        "index": 7,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//129378f5-09f4-43d6-9f54-dcb07e3db58d/markdown_1/imgs/img_in_image_box_605_1078_858_1279.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A06Z%2F-1%2F%2F542d007675d94307523cecd2a16b7cf8c3bab60633a653f3c911cded66ba263f",
+        "filename": "0007.jpg",
+        "success": true
+    },
+    {
+        "index": 8,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//129378f5-09f4-43d6-9f54-dcb07e3db58d/markdown_1/imgs/img_in_image_box_875_1078_1139_1276.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A06Z%2F-1%2F%2F28fe51b2317775b738161bd2ed363797a4e33dda7ead673661bec9652899092e",
+        "filename": "0008.jpg",
+        "success": true
+    },
+    {
+        "index": 9,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//129378f5-09f4-43d6-9f54-dcb07e3db58d/markdown_2/imgs/img_in_image_box_512_1086_771_1291.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A06Z%2F-1%2F%2F6648f4f1e3aa8995a1467e14600f1358ebe513031f98fbeadb38f39d3425572e",
+        "filename": "0009.jpg",
+        "success": true
+    },
+    {
+        "index": 10,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//129378f5-09f4-43d6-9f54-dcb07e3db58d/markdown_2/imgs/img_in_image_box_827_1082_1096_1293.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A06Z%2F-1%2F%2F6232c492b5e4e929453925148f86f5c661e1aefd7b4435b9b368d6d9317cdf1d",
+        "filename": "0010.jpg",
+        "success": true
+    },
+    {
+        "index": 11,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//129378f5-09f4-43d6-9f54-dcb07e3db58d/markdown_3/imgs/img_in_image_box_608_340_992_664.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A07Z%2F-1%2F%2F02b5583c1ece28c44db4df508198121fe8deef7619b706a79cbda408a42793b6",
+        "filename": "0011.jpg",
+        "success": true
+    },
+    {
+        "index": 12,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a8502bf6-c2bd-4b42-a1ed-d946f221cac5/markdown_1/imgs/img_in_chart_box_476_162_986_508.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A18Z%2F-1%2F%2Fe8f24523a8950c89b7b9d742f5d9dbfb84f505c7a1da940aa4b0a34648009382",
+        "filename": "0012.jpg",
+        "success": true
+    },
+    {
+        "index": 13,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a8502bf6-c2bd-4b42-a1ed-d946f221cac5/markdown_2/imgs/img_in_chart_box_449_138_779_470.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A19Z%2F-1%2F%2F7bc0db42e2946be17eb1b52801320acd76a143d6c36ec2dcc524fafd7edf5a7b",
+        "filename": "0013.jpg",
+        "success": true
+    },
+    {
+        "index": 14,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//a8502bf6-c2bd-4b42-a1ed-d946f221cac5/markdown_3/imgs/img_in_chart_box_449_475_792_744.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A19Z%2F-1%2F%2F713869d72e0b0ad7fe792f6dfcc22a4377fd5bed057cef0a7ef9439855d9aa22",
+        "filename": "0014.jpg",
+        "success": true
+    },
+    {
+        "index": 15,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b3588461-b899-4d70-bb64-7aa3f20b16b8/markdown_0/imgs/img_in_chart_box_471_347_803_673.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A05Z%2F-1%2F%2F3ddf6d4c993c44ebc89d6ac21431cd642ff0279850bdb56e637ae8d8c6b5adcf",
+        "filename": "0015.jpg",
+        "success": true
+    },
+    {
+        "index": 16,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b3588461-b899-4d70-bb64-7aa3f20b16b8/markdown_1/imgs/img_in_image_box_191_967_451_1158.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A06Z%2F-1%2F%2F5730ea8907ce97f5d285b1eb5b4daeae83bb1c5816c8f11cd30ec6cf33b697f3",
+        "filename": "0016.jpg",
+        "success": true
+    },
+    {
+        "index": 17,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b3588461-b899-4d70-bb64-7aa3f20b16b8/markdown_1/imgs/img_in_image_box_190_1166_452_1361.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A06Z%2F-1%2F%2Fcef7984793712b9d8df5a66f6f7d5353e50c9e50306a390b2f9352cde7de5aa9",
+        "filename": "0017.jpg",
+        "success": true
+    },
+    {
+        "index": 18,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b3588461-b899-4d70-bb64-7aa3f20b16b8/markdown_1/imgs/img_in_image_box_694_972_944_1154.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A06Z%2F-1%2F%2F7a6e91f728fe060bd761108785ec7868f4706662779a9c7f249b1360da8351e0",
+        "filename": "0018.jpg",
+        "success": true
+    },
+    {
+        "index": 19,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b3588461-b899-4d70-bb64-7aa3f20b16b8/markdown_1/imgs/img_in_image_box_695_1167_943_1359.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A06Z%2F-1%2F%2F873657ec6540b48e5301e8ee9fca3b8959a51b07e4f0e43738d860702a798ed6",
+        "filename": "0019.jpg",
+        "success": true
+    },
+    {
+        "index": 20,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//aa908a02-2c2e-4b0d-a8ec-c2995b716fda/markdown_1/imgs/img_in_image_box_474_1153_974_1428.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A06Z%2F-1%2F%2F2a7a7233a74ff9d1d7dd862871ed594dfa0b83e25cd332c21f999775e2ed6840",
+        "filename": "0020.jpg",
+        "success": true
+    },
+    {
+        "index": 21,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//aa908a02-2c2e-4b0d-a8ec-c2995b716fda/markdown_2/imgs/img_in_image_box_474_632_1132_1080.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A07Z%2F-1%2F%2F59bd311d52d044b06868e9851c71ab0e1c3fbe4eb5334b0be86177faac3a884e",
+        "filename": "0021.jpg",
+        "success": true
+    },
+    {
+        "index": 22,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//aa908a02-2c2e-4b0d-a8ec-c2995b716fda/markdown_3/imgs/img_in_image_box_473_1114_931_1418.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A08Z%2F-1%2F%2F66751f7fd880510a2018f7eaf63f7b7b2bdfce3682fe18d6c6694e9a7253f865",
+        "filename": "0022.jpg",
+        "success": true
+    },
+    {
+        "index": 23,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//d9941cf2-af53-4449-9fc3-f1eab04b11d0/markdown_0/imgs/img_in_chart_box_449_844_870_1079.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A17Z%2F-1%2F%2F7c78539b9db8dc08874d6fabd20dc2bba39b8dcc0cb72a577c436a4c881a7c33",
+        "filename": "0023.jpg",
+        "success": true
+    },
+    {
+        "index": 24,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//d9941cf2-af53-4449-9fc3-f1eab04b11d0/markdown_1/imgs/img_in_chart_box_478_474_888_752.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A18Z%2F-1%2F%2F8e35d7ab250b4df3c7b7672d9d91ee709a8315520efee262c7587f49c2371eca",
+        "filename": "0024.jpg",
+        "success": true
+    },
+    {
+        "index": 25,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//d9941cf2-af53-4449-9fc3-f1eab04b11d0/markdown_1/imgs/img_in_image_box_479_807_955_1100.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A18Z%2F-1%2F%2F1875f0b4685bb9874106632c5f8c576e4c1e361077fd173b50bf717066e6f822",
+        "filename": "0025.jpg",
+        "success": true
+    },
+    {
+        "index": 26,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//d9941cf2-af53-4449-9fc3-f1eab04b11d0/markdown_2/imgs/img_in_chart_box_449_139_860_413.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A18Z%2F-1%2F%2F2bb31309e6213b27c647b4d01c47ff38da515b6c113e7555d9c5b5b2addcdf5b",
+        "filename": "0026.jpg",
+        "success": true
+    },
+    {
+        "index": 27,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//d9941cf2-af53-4449-9fc3-f1eab04b11d0/markdown_2/imgs/img_in_chart_box_450_816_789_1087.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A18Z%2F-1%2F%2F15c61840287e66c6893df3b28e6a6fd09834e2993f9c3974fe21191c1912181f",
+        "filename": "0027.jpg",
+        "success": true
+    },
+    {
+        "index": 28,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//d9941cf2-af53-4449-9fc3-f1eab04b11d0/markdown_3/imgs/img_in_image_box_474_694_1004_1052.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A19Z%2F-1%2F%2F5e6eb0aec0d16d94dc26d533772ba1dddb090de07a8b2e1243a635ddf6603ccf",
+        "filename": "0028.jpg",
+        "success": true
+    },
+    {
+        "index": 29,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//88c304f0-073a-47eb-ae09-3679538c1d37/markdown_0/imgs/img_in_image_box_473_966_837_1209.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A17Z%2F-1%2F%2Fab74e79c9604bc0092d4b0b8cea545ea175e235cef6ccd3aad3ea587e6bdca77",
+        "filename": "0029.jpg",
+        "success": true
+    },
+    {
+        "index": 30,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//88c304f0-073a-47eb-ae09-3679538c1d37/markdown_1/imgs/img_in_image_box_537_274_1065_595.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A18Z%2F-1%2F%2Ff9bb4f72b267b207e9df97f004976a7a3ccf012bc80422bfaab0c3e139f052c1",
+        "filename": "0030.jpg",
+        "success": true
+    },
+    {
+        "index": 31,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//88c304f0-073a-47eb-ae09-3679538c1d37/markdown_1/imgs/img_in_chart_box_450_981_792_1300.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A18Z%2F-1%2F%2F554feca9bbe857990a1df31c3180766f6d00eb27a157d786f8a06e3ccdbb7980",
+        "filename": "0031.jpg",
+        "success": true
+    },
+    {
+        "index": 32,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//88c304f0-073a-47eb-ae09-3679538c1d37/markdown_2/imgs/img_in_chart_box_478_278_1054_434.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A18Z%2F-1%2F%2F3bbe55c407dc1114f4ed8cc08387cfa7f0b844dbd9e5fa51404c78833af261c7",
+        "filename": "0032.jpg",
+        "success": true
+    },
+    {
+        "index": 33,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//88c304f0-073a-47eb-ae09-3679538c1d37/markdown_2/imgs/img_in_image_box_91_958_452_1097.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A18Z%2F-1%2F%2Ffd1691dfdab661e2c2842fe0b70770f9b55af5dff20116e7767ae81066f7cb35",
+        "filename": "0033.jpg",
+        "success": true
+    },
+    {
+        "index": 34,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//0089c72c-990d-4b9c-8564-f3e3f2ccce20/markdown_0/imgs/img_in_chart_box_552_146_1070_351.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A07Z%2F-1%2F%2F17bf141e5cc6439bbcce17ee1ba9c36a85cfbc05b800cfedb661249c076972bf",
+        "filename": "0034.jpg",
+        "success": true
+    },
+    {
+        "index": 35,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//0089c72c-990d-4b9c-8564-f3e3f2ccce20/markdown_0/imgs/img_in_chart_box_478_640_918_890.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A07Z%2F-1%2F%2F8bfa34a2452ad73373e8bdfc81077ca65bba020db299edf8e7ef9249e606f227",
+        "filename": "0035.jpg",
+        "success": true
+    },
+    {
+        "index": 36,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//0089c72c-990d-4b9c-8564-f3e3f2ccce20/markdown_1/imgs/img_in_chart_box_472_671_945_983.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A07Z%2F-1%2F%2F4cba8f872c170eaf738f364c4aa8f28bdae9843734e0b6e6dba0981f58d8ae0e",
+        "filename": "0036.jpg",
+        "success": true
+    },
+    {
+        "index": 37,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//0089c72c-990d-4b9c-8564-f3e3f2ccce20/markdown_2/imgs/img_in_image_box_108_1054_531_1317.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A07Z%2F-1%2F%2F76ced233e0ff9459e09fd13ded3b7fb39eedd6a702db4c22570f0622f469880b",
+        "filename": "0037.jpg",
+        "success": true
+    },
+    {
+        "index": 38,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//0089c72c-990d-4b9c-8564-f3e3f2ccce20/markdown_3/imgs/img_in_chart_box_450_903_787_1184.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A08Z%2F-1%2F%2F734a32e08a31e74956ccf553b22a92a685cfbc73d8805e4e1e4836d272af9534",
+        "filename": "0038.jpg",
+        "success": true
+    },
+    {
+        "index": 39,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//157c0a4d-fa2c-4764-92d9-edafdb8b68c6/markdown_0/imgs/img_in_chart_box_449_717_835_960.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A08Z%2F-1%2F%2F5d6f3e25beb404f76f2f2637eb7f73d2a74ca4b21fe017068d6f6f525a027ae3",
+        "filename": "0039.jpg",
+        "success": true
+    },
+    {
+        "index": 40,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//157c0a4d-fa2c-4764-92d9-edafdb8b68c6/markdown_0/imgs/img_in_chart_box_478_1236_770_1470.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A08Z%2F-1%2F%2F96b195451a28c97d798d23538e0ac53b001b8e83bf6f1ee85c6ae4e01fc81d07",
+        "filename": "0040.jpg",
+        "success": true
+    },
+    {
+        "index": 41,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//157c0a4d-fa2c-4764-92d9-edafdb8b68c6/markdown_1/imgs/img_in_image_box_480_167_849_415.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A08Z%2F-1%2F%2F4a1873d13e96f5194e363a64d8bcdfae00ed4aa048a04d31482af332d6cfec63",
+        "filename": "0041.jpg",
+        "success": true
+    },
+    {
+        "index": 42,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//157c0a4d-fa2c-4764-92d9-edafdb8b68c6/markdown_1/imgs/img_in_chart_box_449_825_797_1117.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A08Z%2F-1%2F%2F6fb5e4a6ac4f24505e8f97ba0255a61f89b3e2a67c1a0acc0a5b7604c0a8ab32",
+        "filename": "0042.jpg",
+        "success": true
+    },
+    {
+        "index": 43,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//157c0a4d-fa2c-4764-92d9-edafdb8b68c6/markdown_1/imgs/img_in_image_box_451_1170_868_1448.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A08Z%2F-1%2F%2F2b0abf1f3c67d6f99dd12037622f11628c91e27d7a56761f00b31535847cbe72",
+        "filename": "0043.jpg",
+        "success": true
+    },
+    {
+        "index": 44,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//157c0a4d-fa2c-4764-92d9-edafdb8b68c6/markdown_2/imgs/img_in_image_box_474_909_747_1137.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A09Z%2F-1%2F%2F2ed8c6c9384d34aef25358e76b5478e4c26140c7df79b508f0c60d49f78b0c34",
+        "filename": "0044.jpg",
+        "success": true
+    },
+    {
+        "index": 45,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//5a53e4f8-45dd-4312-9401-74297d286255/markdown_0/imgs/img_in_image_box_514_292_1086_486.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A07Z%2F-1%2F%2F0132e743a2f9b3240962328f59b8bd611c0cc60d0a8e4e926c84ecb03c011066",
+        "filename": "0045.jpg",
+        "success": true
+    },
+    {
+        "index": 46,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//5a53e4f8-45dd-4312-9401-74297d286255/markdown_0/imgs/img_in_chart_box_449_926_857_1190.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A07Z%2F-1%2F%2F01638c507a426d4fb36439ad5d32293537081cc16a820049de1c350cf52dcc62",
+        "filename": "0046.jpg",
+        "success": true
+    },
+    {
+        "index": 47,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//5a53e4f8-45dd-4312-9401-74297d286255/markdown_1/imgs/img_in_image_box_479_1150_863_1335.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A08Z%2F-1%2F%2Faf78db8c342ed0eaaa0971083c3da46dcb85f302d7c3127e3e93b32998a6ec76",
+        "filename": "0047.jpg",
+        "success": true
+    },
+    {
+        "index": 48,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//5a53e4f8-45dd-4312-9401-74297d286255/markdown_3/imgs/img_in_image_box_479_168_937_463.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A09Z%2F-1%2F%2Fb7fdaa1a66004a628b3524d2d5d789f66cb319f0f627a917c7cfb540943da24e",
+        "filename": "0048.jpg",
+        "success": true
+    },
+    {
+        "index": 49,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1235666a-6a48-458b-a7e9-cf46236b1cfe/markdown_2/imgs/img_in_chart_box_450_278_837_592.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A21Z%2F-1%2F%2Fb002fd7a9492d50d098f9c5b60739f7cc9b5eb50e77d376d41962db8b04bed44",
+        "filename": "0049.jpg",
+        "success": true
+    },
+    {
+        "index": 50,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1235666a-6a48-458b-a7e9-cf46236b1cfe/markdown_2/imgs/img_in_chart_box_476_1089_832_1404.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A21Z%2F-1%2F%2F3667ba874044562ac898b2b9267b55b7fcb195598df4902533f7d6ac5df898ff",
+        "filename": "0050.jpg",
+        "success": true
+    },
+    {
+        "index": 51,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1235666a-6a48-458b-a7e9-cf46236b1cfe/markdown_3/imgs/img_in_image_box_452_171_779_482.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A23Z%2F-1%2F%2F2996e4f6e70ab2a1a589e19c8ddf239cd0fda4d647f748dba10733528fbbdeda",
+        "filename": "0051.jpg",
+        "success": true
+    },
+    {
+        "index": 52,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//1235666a-6a48-458b-a7e9-cf46236b1cfe/markdown_3/imgs/img_in_chart_box_450_939_794_1206.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A23Z%2F-1%2F%2Fda1a357c3675ce745c82fe4ac11919bcb577acbcf1b070c25cffc90f7c5f1cdc",
+        "filename": "0052.jpg",
+        "success": true
+    },
+    {
+        "index": 53,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//36625b1f-fdbc-4b1a-b8d6-8c55125d755b/markdown_0/imgs/img_in_chart_box_451_137_775_401.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A07Z%2F-1%2F%2F8546f029dc61e65c5295c0df0f5b13c1c7e19d88f6c38ef9e43d0f03adaa5990",
+        "filename": "0053.jpg",
+        "success": true
+    },
+    {
+        "index": 54,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//36625b1f-fdbc-4b1a-b8d6-8c55125d755b/markdown_0/imgs/img_in_chart_box_477_1155_922_1431.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A07Z%2F-1%2F%2Fa271dbf9f25533adca458e0a92d34e4aac1e2ac3997e2b007be1a4b1896c95b5",
+        "filename": "0054.jpg",
+        "success": true
+    },
+    {
+        "index": 55,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//36625b1f-fdbc-4b1a-b8d6-8c55125d755b/markdown_1/imgs/img_in_chart_box_451_768_835_1010.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A08Z%2F-1%2F%2F873cd2d7d45df5c2d603a9ed5d9eeb7e9b18bbcc395dd8142deab6f92bc67de2",
+        "filename": "0055.jpg",
+        "success": true
+    },
+    {
+        "index": 56,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//36625b1f-fdbc-4b1a-b8d6-8c55125d755b/markdown_2/imgs/img_in_chart_box_450_143_791_466.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A08Z%2F-1%2F%2F3248a39eaa0c029245599db427c8978eb158e4b2ee5a099aaa12486a1e06860c",
+        "filename": "0056.jpg",
+        "success": true
+    },
+    {
+        "index": 57,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//36625b1f-fdbc-4b1a-b8d6-8c55125d755b/markdown_3/imgs/img_in_chart_box_472_1094_825_1396.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A08Z%2F-1%2F%2F09a3050fdc83c3f48c110b91d98206e87b1de40b2e8409ccf5aafc2f4e207dbf",
+        "filename": "0057.jpg",
+        "success": true
+    },
+    {
+        "index": 58,
+        "original_url": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//87fbc55c-c4f8-458b-aee0-dada7e76baac/markdown_0/imgs/img_in_image_box_474_157_1049_520.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-11T15%3A04%3A18Z%2F-1%2F%2Fec3327a551ae794e052d68cda1d4b58624286057858e77c4ec99d8f932db94eb",
+        "filename": "0058.jpg",
+        "success": true
+    }
+]
